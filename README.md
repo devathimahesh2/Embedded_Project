@@ -10,3 +10,4 @@ Folder           | Description
 `2_Architecture.`  | Documents Specifying design related
 `3_Implementation` | All code and documentation
 `4_Test plan.`     | Documents with test plans and procedures
+[![](https://github.com/devathimahesh2/Embedded_Project/raw/main/1_Requirements/133557189-94e87ad9-0637-44af-ac93-ca06cc033e67.jpeg)]

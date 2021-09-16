@@ -6,5 +6,7 @@
 # Activty2
 [![](https://github.com/devathimahesh2/Embedded_Project/blob/main/6_Images_and_Videos/127531498-97f344e1-106b-4a28-b564-3835755e693e.png)]
 # Activity3
-[![](https://github.com/devathimahesh2/Embedded_Project/blob/main/6_Images_and_Videos/127531533-81f8db82-92eb-4645-9a7e-26673448c2b6.pngvity3)]
+
+[![](https://github.com/devathimahesh2/Embedded_Project/blob/main/6_Images_and_Videos/127531533-81f8db82-92eb-4645-9a7e-26673448c2b6.png)]
+
 
